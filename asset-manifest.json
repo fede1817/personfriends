@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/personfriends/static/css/main.05df88eb.css",
-    "main.js": "/personfriends/static/js/main.a5aa5e10.js",
+    "main.js": "/personfriends/static/js/main.928be6f0.js",
     "static/js/592.1187661d.chunk.js": "/personfriends/static/js/592.1187661d.chunk.js",
     "static/media/SEGA.woff": "/personfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/personfriends/index.html",
     "main.05df88eb.css.map": "/personfriends/static/css/main.05df88eb.css.map",
-    "main.a5aa5e10.js.map": "/personfriends/static/js/main.a5aa5e10.js.map",
+    "main.928be6f0.js.map": "/personfriends/static/js/main.928be6f0.js.map",
     "592.1187661d.chunk.js.map": "/personfriends/static/js/592.1187661d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05df88eb.css",
-    "static/js/main.a5aa5e10.js"
+    "static/js/main.928be6f0.js"
   ]
 }
